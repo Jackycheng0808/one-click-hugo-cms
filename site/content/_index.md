@@ -19,6 +19,8 @@ products:
       down to just 20 minutes. Patients’ data is logged automatically via
       bluetooth so there’s no more manual repetitive logging, and most
       importantly they can operate it anywhere that’s clean, even in the car.
+  - image: img/device.png
+    text: Hello world
 values:
   heading: Our values
   text: To help improve patients' lives, we are offering the portable solution, PD
